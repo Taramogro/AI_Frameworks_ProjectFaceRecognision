@@ -1,0 +1,16 @@
+pandas==2.2.3
+numpy==1.26.4
+pillow==10.2.0
+pillow_heif==0.20.0
+tqdm==4.67.0
+split-folders==0.5.1
+tensorflow==2.18.0
+keras==3.6.0
+keras-facenet==0.3.2
+tf_keras==2.18.0
+torch==2.2.2 --index-url https://download.pytorch.org/whl/cu118
+torchvision==0.17.2 --index-url https://download.pytorch.org/whl/cu118
+opencv-python==4.10.0.84
+facenet-pytorch==2.6.0
+dlib==19.24.6
+scikit-learn==1.5.2
